@@ -1,5 +1,8 @@
 # Employees Practice Mysql
 
+Data taken from https://github.com/datacharmer/test_db/ more informaton can be found at https://dev.mysql.com/doc/employee/en/
+
+
 ## Start mysql
 `docker run --rm --name=employees-db -it -p3306:3306 harrymartland/employees-practice-mysql`
 
